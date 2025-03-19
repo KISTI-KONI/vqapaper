@@ -17,7 +17,7 @@ VQA 논문 공유
 <a id="a1"></a>
 ---
 ### *Nougat: Neural Optical Understanding for Academic Documents*
-- **저자:** Kim, G., Hong, T., Yim, M., Nam, J., Park, J., Yim, J., ... & Park, S.  
+- **저자:** Blecher, L., Cucurull, G., Scialom, T., & Stojnic, R.
 - **발표/출판 정보:** ECCV 2022.
 - **링크:** [논문 바로가기](https://arxiv.org/abs/2308.13418)
 - **업로더:** 고민균
