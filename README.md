@@ -7,7 +7,7 @@ VQA 논문 공유
 |[2](#a2)| [ Nougat: Neural Optical Understanding for Academic Documents](https://arxiv.org/abs/2308.13418)     |     2023.08     |
 
 ---
-[1]### 논문 제목: *OCR-free Document Understanding Transformer*
+### *OCR-free Document Understanding Transformer*
 - **저자:** Kim, G., Hong, T., Yim, M., Nam, J., Park, J., Yim, J., ... & Park, S.  
 - **발표/출판 정보:** ECCV 2022.
 - **링크:** [논문 바로가기](https://arxiv.org/abs/2111.15664) 
@@ -16,9 +16,7 @@ VQA 논문 공유
   
 <a id="a1"></a>
 ---
-
----
-[2]### 논문 제목: *Nougat: Neural Optical Understanding for Academic Documents*
+### *Nougat: Neural Optical Understanding for Academic Documents*
 - **저자:** Kim, G., Hong, T., Yim, M., Nam, J., Park, J., Yim, J., ... & Park, S.  
 - **발표/출판 정보:** ECCV 2022.
 - **링크:** [논문 바로가기](https://arxiv.org/abs/2308.13418)
