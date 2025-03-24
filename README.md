@@ -7,7 +7,7 @@ VQA 논문 공유
 |[2](#a2)| [Nougat: Neural Optical Understanding for Academic Documents](https://arxiv.org/abs/2308.13418)     |     2023.08     |
 |[3](#a3)| [TextMonkey: An OCR-Free Large Multimodal Model for Understanding Document](https://arxiv.org/abs/2403.04473)     |     2024.03     |
 |[4](#a4)| [PDF-WuKong: A Large Multimodal Model for Efficient Long PDF Reading with End-to-End Sparse Sampling](https://arxiv.org/abs/2410.05970)     |     2024.10     |
-|[5](#a5)| [LEO: Boosting Mixture of Vision Encoders for Multimodal Large Language Models]     |     2025.01     |
+|[5](#a5)| [LEO: Boosting Mixture of Vision Encoders for Multimodal Large Language Models](https://arxiv.org/abs/2501.06986)     |     2025.01     |
 |[6](#a6)| LOCR     |     -     |
 |[7](#a7)| CC-OCR     |     -    |
 |[8](#a8)| OCR-Bench     |     -    |
