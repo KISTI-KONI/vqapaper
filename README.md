@@ -7,9 +7,10 @@ VQA 논문 공유
 |[2](#a2)| [Nougat: Neural Optical Understanding for Academic Documents](https://arxiv.org/abs/2308.13418)     |     2023.08     |
 |[3](#a3)| [TextMonkey: An OCR-Free Large Multimodal Model for Understanding Document](https://arxiv.org/abs/2403.04473)     |     2024.03     |
 |[4](#a4)| [PDF-WuKong: A Large Multimodal Model for Efficient Long PDF Reading with End-to-End Sparse Sampling](https://arxiv.org/abs/2410.05970)     |     2024.10     |
-|[5](#a5)| LOCR     |     -     |
-|[6](#a6)| CC-OCR     |     -    |
-|[7](#a7)| OCR-Bench     |     -    |
+|[5](#a5)| [LEO: Boosting Mixture of Vision Encoders for Multimodal Large Language Models]     |     2025.01     |
+|[6](#a6)| LOCR     |     -     |
+|[7](#a7)| CC-OCR     |     -    |
+|[8](#a8)| OCR-Bench     |     -    |
 
 ---
 ### *OCR-free Document Understanding Transformer*
@@ -47,4 +48,13 @@ VQA 논문 공유
 - **코멘트:** 긴 PDF 문서의 멀티모달 이해를 위해 설계된 대형 모델로, 엔드 투 엔드 희소 샘플링 기법을 적용, 문서QA
   
 <a id="a4"></a>
+---
+### *LEO: Boosting Mixture of Vision Encoders for Multimodal Large Language Models*
+- **저자:** Mozhgan Nasr Azadani, James Riddell, Sean Sedwards, Krzysztof Czarnecki
+- **발표/출판 정보:** arxiv preprint.
+- **링크:** [논문 바로가기](https://arxiv.org/abs/2501.06986)  
+- **업로더:** 조재민
+- **코멘트:** 비전 인코더: 기존방법과 다르게 두개의 비전인코더에서 각각 서로다른 프로젝션 레이어를 적용하고 LLM과 합쳐주는 방법으로 성능 향상, 문서QA
+  
+<a id="a5"></a>
 ---
